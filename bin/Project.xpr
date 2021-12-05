@@ -1,0 +1,8 @@
+Data < ADDXPR ONLY_ADD_IF_NEW "car_speed_parameter.pulse_frequency"
+Data < ADDXPR ONLY_ADD_IF_NEW "car_speed_parameter.loader_speed"
+Data < ADDXPR ONLY_ADD_IF_NEW "CAN_FaultDisplayCtrl"
+Data < ADDXPR ONLY_ADD_IF_NEW "LCD_NCDWarningDisplayCtrl"
+Data < ADDXPR ONLY_ADD_IF_NEW "LCD_REGENWarningDisplayCtrl"
+Data < ADDXPR ONLY_ADD_IF_NEW "can_data"
+Data < ADDXPR ONLY_ADD_IF_NEW "CAN_FaultRecordBuffer"
+Data < ADDXPR ONLY_ADD_IF_NEW "temp"
